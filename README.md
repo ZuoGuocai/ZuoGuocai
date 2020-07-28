@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 
 ![ZuoGuocai's github stats](https://github-readme-stats.vercel.app/api?username=ZuoGuocai&show_icons=true&theme=radical)
 
+
+
+
+<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuoGuocai&layout=compact&theme=dark)](https://github.com/ZuoGuocai/github-readme-stats)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuoGuocai&repo=zabbix_push)](https://github.com/ZuoGuocai/zabbix_push)
 
-
+-->
 
