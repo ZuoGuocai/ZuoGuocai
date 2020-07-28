@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 
 ![ZuoGuocai's github stats](https://github-readme-stats.vercel.app/api?username=ZuoGuocai&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuoGuocai&layout=compact&theme=radical)](https://github.com/ZuoGuocai/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZuoGuocai&repo=github-readme-stats&theme=radical)](https://github.com/Zuocai/github-readme-stats)
+
+
